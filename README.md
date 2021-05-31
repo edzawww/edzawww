@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @edzawww
-- 👀 I’m interested in html & css
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in HTML & CSS
+- 🌱 I’m currently learning HTML
 - 📫 How to reach me text me on instagram @edzawww
 
 <!---
